@@ -10,7 +10,7 @@ I'm a passionate and self-driven full-stack developer with experience building w
 - ⚡ **Fun fact:** 🐛 Sometimes I fix one bug and create three new ones — true full-stack magic.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soy_yo.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/devansh-tiwari-300589367) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@soy_yo_dev40)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soy_yo.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yo-soy-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@soy_yo_dev40)
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
