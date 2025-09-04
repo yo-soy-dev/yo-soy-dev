@@ -1,13 +1,13 @@
-# 💫 Hi 👋, I'm Devansh Tiwari
+# 👨‍💻 Hi, I'm Devansh Tiwari  
 **Full-Stack Developer || MERN Stack || Open to Work**
 
 I'm a passionate and self-driven full-stack developer with experience building web applications using the MERN stack (MongoDB, Express, React, Node.js). I love learning new technologies and building real-world projects that solve problems.
 
-- 🔭 **I’m currently working on:** AI Therapist Agent Application 🧠💬 
-- 🌱 **I’m currently learning:** TypeScript, Next.js, and deeper concepts in full-stack architecture
+- 🚀 **I’m currently working on:** AI Therapist Agent Application 🧠💬 
+- 📚 **I’m currently learning:** TypeScript, Next.js, and deeper concepts in full-stack architecture
 - 💼 **I'm actively looking for:** Internship / Full-time Roles as a Full-Stack Developer
-- 📫 **How to reach me:** devanshtiwari817@gmail.com
-- ⚡ **Fun fact:** 🐛 Sometimes I fix one bug and create three new ones — true full-stack magic.
+- 📩 **How to reach me:** devanshtiwari817@gmail.com
+- ⚡ **Fun fact:** Debugging is just my way of playing detective 🕵️‍♂️ — like Rust Cohle in *True Detective*.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soy_yo.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yo-soy-dev) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@soy_yo_dev40)
