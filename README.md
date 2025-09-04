@@ -3,7 +3,7 @@
 
 I'm a passionate and self-driven full-stack developer with experience building web applications using the MERN stack (MongoDB, Express, React, Node.js). I love learning new technologies and building real-world projects that solve problems.
 
-- 🔭 **I’m currently working on:** Car Rental Booking Application🚗 (Booking, payments, availability, and more...)
+- 🔭 **I’m currently working on:** AI Therapist Agent Application 🧠💬 
 - 🌱 **I’m currently learning:** TypeScript, Next.js, and deeper concepts in full-stack architecture
 - 💼 **I'm actively looking for:** Internship / Full-time Roles as a Full-Stack Developer
 - 📫 **How to reach me:** devanshtiwari817@gmail.com
