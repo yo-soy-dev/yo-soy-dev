@@ -3,7 +3,7 @@
 
 Full-stack developer specializing in production-ready web applications, with multiple SaaS deployments serving real users and AI-powered features.
 
-- 🚀 **I’m currently working on:** 
+- 🚀 **I’m currently working on:** 💡Exploring new ideas and improving my existing projects
 - 📚 **I’m currently learning:** Advanced System Design & Cloud Architecture
 - 💼 **I'm actively looking for:** Internship / Full-time Roles as a Full-Stack Developer
 - 📩 **How to reach me:** devanshtiwari817@gmail.com
