@@ -1,5 +1,5 @@
 # 👨‍💻 Hi, I'm Devansh Tiwari  
-**Full-Stack Developer || React • Next.js • Node.js • TypeScript | Available Immediately**
+**Full-Stack Developer || React • Next.js • Node.js • TypeScript || Available Immediately**
 
 Full-stack developer specializing in production-ready web applications, with multiple SaaS deployments serving real users and AI-powered features.
 
