@@ -1,10 +1,10 @@
 # 👨‍💻 Hi, I'm Devansh Tiwari  
-**Full-Stack Developer || MERN Stack || Open to Work**
+**Full-Stack Developer || React • Next.js • Node.js • TypeScript | Available Immediately**
 
-I'm a passionate and self-driven full-stack developer with experience building web applications using the MERN stack (MongoDB, Express, React, Node.js). I love learning new technologies and building real-world projects that solve problems.
+Full-stack developer specializing in production-ready web applications, with multiple SaaS deployments serving real users and AI-powered features.
 
-- 🚀 **I’m currently working on:** AI Therapist Agent Application 🧠💬 
-- 📚 **I’m currently learning:** TypeScript, Next.js, and deeper concepts in full-stack architecture
+- 🚀 **I’m currently working on:** 
+- 📚 **I’m currently learning:** Advanced System Design & Cloud Architecture
 - 💼 **I'm actively looking for:** Internship / Full-time Roles as a Full-Stack Developer
 - 📩 **How to reach me:** devanshtiwari817@gmail.com
 - ⚡ **Fun fact:** Debugging is just my way of playing detective 🕵️‍♂️ — like Rust Cohle in *True Detective*.
