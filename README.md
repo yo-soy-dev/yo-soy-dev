@@ -23,6 +23,7 @@ Full-stack developer specializing in production-ready web applications, with mul
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 🌐 Frontend Development
@@ -86,13 +87,6 @@ Full-stack developer specializing in production-ready web applications, with mul
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yo-soy-dev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🏆 Achievements
-- ⭐ Built and shipped production-ready SaaS applications
-- 🚀 Experience with full-stack systems using React, Next.js & Node.js
-- 🤖 Implemented AI-powered features for real users
-- 🌍 Deployed apps on Vercel, Render & cloud platforms
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
