@@ -1,16 +1,17 @@
 <div align="center">
 
-<!-- Header using GitHub's own SVG — no external banner, always reliable -->
 <h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Devansh+%F0%9F%91%8B;Full-Stack+Developer;SaaS+Builder+%7C+OSS+Contributor;Available+for+Internships+%26+Remote+Roles" alt="Typing SVG" />
 </h1>
 
 <p>
-  <img src="https://img.shields.io/badge/📍_Location-Lucknow,_India-4A90E2?style=flat-square" />
+  <img src="https://img.shields.io/badge/📍-Lucknow,_India-4A90E2?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/🟢_Status-Open_to_Work-2ea44f?style=flat-square" />
   &nbsp;
   <img src="https://img.shields.io/badge/⚡_Available-Immediately-f97316?style=flat-square" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=yo-soy-dev&label=Profile+Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <p>
@@ -42,34 +43,34 @@ const devansh: Developer = {
 };
 ```
 
-> Full-stack developer who ships production-grade software. I've built and deployed AI-powered SaaS platforms, real-time collaborative tools with microservices architecture, and content generation engines — all serving real users. I care about clean architecture, developer experience, and products that actually work at scale.
+> Full-stack developer who ships production-grade software. I've built and deployed AI-powered SaaS platforms, real-time collaborative tools with microservices architecture, a cross-platform mobile app, and content generation engines — all serving real users. I care about clean architecture, developer experience, and products that actually work at scale.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 [SyncForge](https://github.com/yo-soy-dev) — Real-time Collaborative Code Editor
+### 🏗️ [SyncForge](https://github.com/yo-soy-dev) — Real-time Collaborative Code Editor
 > `React.js` · `Node.js` · `Socket.IO` · `Yjs CRDT` · `Redis Pub/Sub` · `MongoDB` · `Docker` · `Microservices` · `Mistral AI`
 
 - Architected a **production-grade collaborative editor** using **6 independently deployed microservices** (API Gateway, Auth, Room, Collaboration, AI Assistant, Code Execution)
 - Implemented **conflict-free multi-user sync** using Yjs CRDT + Socket.IO with Redis Pub/Sub across distributed server instances
 - Built an **in-browser sandboxed code execution engine** supporting JavaScript, Python & TypeScript
 - Integrated **Mistral AI** assistant for code review, fix, explain, and chat features
-- Containerized the entire stack with **Docker Compose** for one-command local dev; deployed on Render + Vercel
+- Containerized entire stack with **Docker Compose**; deployed on Render + Vercel
 
 ---
 
-### 📚 [OrbitLearn](https://github.com/yo-soy-dev) — AI-Powered LMS SaaS Platform
+### 🧠 [OrbitLearn](https://github.com/yo-soy-dev) — AI-Powered LMS SaaS Platform
 > `Next.js` · `TypeScript` · `Supabase` · `Stripe API` · `OpenAI API` · `Vapi API` · `Brevo API` · `Clerk Auth`
 
 - Built a scalable **LMS SaaS** with Clerk auth, Stripe subscription workflows, and tier-based access control
 - Developed **real-time interactive classrooms** with AI vocal agents, AI-generated quizzes, and automated summaries
-- Delivered personalized learning reports to improve student engagement and instructor efficiency
+- Delivered personalized learning reports improving student engagement and instructor efficiency
 
 ---
 
 ### 🤖 [CreonixAI](https://github.com/yo-soy-dev) — Content & Image Generation SaaS
-> `React.js` · `Node.js` · `PostgreSQL` · `OpenAI API` · `Clipdrop API` · `Brevo` · `Clerk Auth`
+> `React.js` · `Node.js` · `PostgreSQL` · `OpenAI API` · `Clipdrop API` · `Brevo API` · `Clerk Auth`
 
 - Full-stack AI SaaS with **tier-based premium subscriptions** and Clerk authentication
 - Built tools for **AI content generation, image editing, background removal, and resume analysis**
@@ -77,9 +78,18 @@ const devansh: Developer = {
 
 ---
 
+### 📚 [BookWorm](https://github.com/yo-soy-dev) — Social Reading Platform
+> `React Native (Expo)` · `Node.js` · `Express.js` · `MongoDB` · `Cloudinary` · `JWT Auth`
+
+- Built a **full-stack cross-platform mobile app** (Android, iOS, Web) using React Native + Expo Router with secure JWT-based authentication
+- Developed RESTful backend with **infinite scrolling feeds, image uploads via Cloudinary**, and complete CRUD workflows
+- Demonstrated end-to-end mobile development with real-world auth, pagination, media handling, and cloud deployment
+
+---
+
 ## 💼 Experience
 
-**Full Stack Developer Intern** · [Mentneo](https://mentneo.com) · *Feb 2026 – May 2026 · Remote*
+**Full Stack Developer Intern** · Mentneo · *Feb 2026 – May 2026 · Remote*
 - Researched and designed full tech stack for a **real-time Webinar Platform MVP** — evaluated WebRTC vs HLS, SFU providers (Agora, LiveKit), and serverless DB solutions (Neon)
 - Delivered architecture document covering **10,000+ concurrent user scalability**, security, auth workflows, and phased migration strategy
 
@@ -103,6 +113,7 @@ const devansh: Developer = {
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Backend & APIs**
 
@@ -129,6 +140,8 @@ const devansh: Developer = {
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -136,13 +149,13 @@ const devansh: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yo-soy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-soy-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yo-soy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-soy-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yo-soy-dev&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com/?user=yo-soy-dev&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -150,7 +163,7 @@ const devansh: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yo-soy-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=yo-soy-dev&theme=tokyonight&no-frame=true&column=7&margin-w=4&margin-h=4" />
 </div>
 
 ---
@@ -158,7 +171,7 @@ const devansh: Developer = {
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yo-soy-dev&theme=tokyo-night&hide_border=true&area=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=yo-soy-dev&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ---
@@ -168,7 +181,8 @@ const devansh: Developer = {
 - 🧩 **165+ DSA problems** solved on LeetCode & GeeksforGeeks
 - 🚀 **6+ production apps** deployed and live on Vercel & Render
 - 🤖 Shipped **3 AI-powered SaaS platforms** with real users
-- 🏗️ Architected **microservices system** with 6 independently deployed Node.js services
+- 🏗️ Architected a **microservices system** with 6 independently deployed Node.js services
+- 📱 Built a **cross-platform mobile app** (Android + iOS + Web) with React Native & Expo
 - 📜 Certified in **GenAI, GitHub Copilot Prompt Engineering, TCS iON Career Edge**
 
 ---
@@ -188,8 +202,6 @@ const devansh: Developer = {
 **💼 Open to:** `Internships` &nbsp;|&nbsp; `Remote Roles` &nbsp;|&nbsp; `Freelance Projects` &nbsp;|&nbsp; `Open Source Collaboration`
 
 <br>
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=yo-soy-dev&icon=6&color=6)](https://visitcount.itsvg.in)
 
 <sub><i>If you have an interesting problem to solve — let's build something together.</i></sub>
 
