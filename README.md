@@ -149,7 +149,9 @@ const devansh: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-alpha.vercel.app/api?username=yo-soy-dev&cc=0d1117&tc=58a6ff&ic=58a6ff&bc=0d1117" />
+<!-- Stats Card — hosted on anuraghazra's own instance (not the paused public one) -->
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yo-soy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yo-soy-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" />
 
 </div>
 
@@ -157,16 +159,20 @@ const devansh: Developer = {
   <img src="https://streak-stats.demolab.com/?user=yo-soy-dev&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yo-soy-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" />
-</div>
-
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yo-soy-dev&theme=nord&no-frame=true&column=4&margin-w=8&margin-h=8&row=2" />
+
+| 🧩 DSA Problems | 🚀 Production Apps | 🤖 AI SaaS Built | 🏗️ Microservices |
+|:---:|:---:|:---:|:---:|
+| **165+** | **6+** | **3** | **6 services** |
+
+| 📱 Mobile Apps | ☁️ Cloud Platforms | 🗄️ Databases | 📜 Certifications |
+|:---:|:---:|:---:|:---:|
+| **1 (Android+iOS+Web)** | **Vercel, Render, AWS** | **3** | **3** |
+
 </div>
 
 ---
