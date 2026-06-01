@@ -149,9 +149,8 @@ const devansh: Developer = {
 
 <div align="center">
 
-<!-- Stats Card — hosted on anuraghazra's own instance (not the paused public one) -->
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yo-soy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yo-soy-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-eight-ruby-31.vercel.app/api?username=yo-soy-dev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats-eight-ruby-31.vercel.app/api/top-langs/?username=yo-soy-dev&layout=compact&theme=tokyonight&hide_border=true&count_private=true&langs_count=8" />
 
 </div>
 
