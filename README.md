@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Devansh+%F0%9F%91%8B;Full-Stack+Developer;SaaS+Builder+%7C+OSS+Contributor;Available+for+Internships+%26+Remote+Roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=3000&color=58A6FF&center=true&vCenter=true&width=750&height=50&lines=Hey+there%2C+I'm+Devansh!+%F0%9F%91%8B;Full-Stack+Developer+(Web+%26+Mobile);MERN+%E2%80%A2+PERN+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Microservices+%E2%80%A2+Docker+%E2%80%A2+Redis;AI-Powered+Apps+%7C+Open+to+Work" alt="Typing SVG" />
 </h1>
 
 <p>
@@ -15,6 +15,8 @@
 </p>
 
 <p>
+  <a href="https://devansh-tiwari-full-stack-developer.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-devanshtiwari.dev-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  &nbsp;
   <a href="mailto:devanshtiwari817@gmail.com"><img src="https://img.shields.io/badge/Gmail-devanshtiwari817-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   &nbsp;
   <a href="https://linkedin.com/in/yo-soy-dev"><img src="https://img.shields.io/badge/LinkedIn-yo--soy--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -49,7 +51,7 @@ const devansh: Developer = {
 
 ## 🚀 Featured Projects
 
-### 🏗️ [SyncForge](https://github.com/yo-soy-dev) — Real-time Collaborative Code Editor
+### 🏗️ [SyncForge](https://github.com/yo-soy-dev/SyncForge) — Real-time Collaborative Code Editor
 > `React.js` · `Node.js` · `Socket.IO` · `Yjs CRDT` · `Redis Pub/Sub` · `MongoDB` · `Docker` · `Microservices` · `Mistral AI`
 
 - Architected a **production-grade collaborative editor** using **6 independently deployed microservices** (API Gateway, Auth, Room, Collaboration, AI Assistant, Code Execution)
@@ -60,7 +62,7 @@ const devansh: Developer = {
 
 ---
 
-### 🧠 [OrbitLearn](https://github.com/yo-soy-dev) — AI-Powered LMS SaaS Platform
+### 🧠 [OrbitLearn](https://github.com/yo-soy-dev/OrbitLearn) — AI-Powered LMS SaaS Platform
 > `Next.js` · `TypeScript` · `Supabase` · `Stripe API` · `OpenAI API` · `Vapi API` · `Brevo API` · `Clerk Auth`
 
 - Built a scalable **LMS SaaS** with Clerk auth, Stripe subscription workflows, and tier-based access control
@@ -69,7 +71,7 @@ const devansh: Developer = {
 
 ---
 
-### 🤖 [CreonixAI](https://github.com/yo-soy-dev) — Content & Image Generation SaaS
+### 🤖 [CreonixAI](https://github.com/yo-soy-dev/CreonixAI) — Content & Image Generation SaaS
 > `React.js` · `Node.js` · `PostgreSQL` · `OpenAI API` · `Clipdrop API` · `Brevo API` · `Clerk Auth`
 
 - Full-stack AI SaaS with **tier-based premium subscriptions** and Clerk authentication
@@ -78,7 +80,7 @@ const devansh: Developer = {
 
 ---
 
-### 📚 [BookWorm](https://github.com/yo-soy-dev) — Social Reading Platform
+### 📚 [BookWorm](https://github.com/yo-soy-dev/BookWorm) — Social Reading Platform
 > `React Native (Expo)` · `Node.js` · `Express.js` · `MongoDB` · `Cloudinary` · `JWT Auth`
 
 - Built a **full-stack cross-platform mobile app** (Android, iOS, Web) using React Native + Expo Router with secure JWT-based authentication
